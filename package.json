@@ -58,6 +58,11 @@
     ]
   },
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.1.2",
     "execa": "^5.0.0",
     "hardhat": "^2.2.0",
     "json": "^10.0.0",
